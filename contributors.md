@@ -30,6 +30,7 @@
 - [willianba](https://github.com/willianba)
 - [Swan](https://github.com/swans01)
 - [nawwx3](https://github.com/nawwx3)
+- [Sogastar](https://github.com/Sogastar)
 
 # Contributors
 *(People who have not participated in challenges but want to be a part of the project!)*
